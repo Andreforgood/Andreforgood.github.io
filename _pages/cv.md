@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Mainland China, Xiamen University 2021-2025
+* Exchange student, Department of Applied Mathematics, National Chiao Tung University 2024.2-2024.6
 
-Work experience
+Campus/Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2022: assistant data analyst. 
+  * Company: Beijing Analysys Digital Intelligence Technology.
+  * Duties includes: Mainly help with data cleaning/ visualization/ predictive modelling. Conducted data analysis on mobile app user interactions to identify content preferences and optimize product recommendations, leading to enhanced sales and customer engagement.
+  * Supervisor: Yue Chen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2023: Research Assistant
+  * University of Oxford
+  * Duties included: Conducted research utilizing probability theory, Bayesian and regression analysis to understand key principles and develop predictive models. For instance, we implemented a convolutional model to predict TF binding sites from DNA sequences, employing one-hot encoding, embedding techniques (Dimension reduction), stochastic gradient descent, and cross-validation for model optimization and performance evaluation.
+  * Supervisor: Dr Jaromir Sant
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Research Assistant
+  * North Carolina State University.
+  * Duties included: At NC State, I focused on text processing for the topic AI and Crisis Communication. I extracted key information from research papers, using NLP techniques (LLM) to vectorize text, followed by clustering analysis (e.g., K-Means, DBSCAN) to identify contents like the most common theoretical frameworks and AI models used in the mentioned articles. Additionally, I conducted time series analysis to predict corporate responses (positive, negative or neutral) to public sentiment during crises, utilizing ARIMA, GARCH, and seasonal ARIMA models.
+  * Supervisor: Alice Cheng
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Skill 1: Data Cleaning and Preprocessing: Possess skills in cleaning and preprocessing data, including handling missing values, outliers, duplicates, normalization etc. (Proficient at Python and R programming)
+* Skill 2: Statistical Modeling and Machine Learning: Capable of constructing and evaluating statistical & ML models, such as linear regression, logistic regression, decision trees, CNN, EM algorithm, kernel k-means etc., to address real-world problems.
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+Domain of Interest
