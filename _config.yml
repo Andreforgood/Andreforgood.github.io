@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.png"
+  avatar           : "profile.png"
   name             : "Dongwen Ou"
   pronouns         : # example: "she/her"  
   bio              : "Here's hoping the random universe works out for you!"
