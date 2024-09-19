@@ -11,15 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mainland China, Xiamen University 2021-2025
+* B.S. in Mathematical Statistics, Xiamen University, Mainland China 2021.9-2025.6
 * Exchange student, Department of Applied Mathematics, National Chiao Tung University 2024.2-2024.6
 
-Campus/Research experience
+Intern/Campus/Research experience
 ======
-* Summer 2022: assistant data analyst. 
+* Summer 2022: Assistant Data Analyst. 
   * Company: Beijing Analysys Digital Intelligence Technology.
   * Duties includes: Mainly help with data cleaning/ visualization/ predictive modelling. Conducted data analysis on mobile app user interactions to identify content preferences and optimize product recommendations, leading to enhanced sales and customer engagement.
   * Supervisor: Yue Chen
+
+* Winter 2022:  Winter school, Imperial College, topic: data science in health care innovation.
+  * Duties includes: Analyzed medical imaging data, specifically lung X-ray images, using Logisitic Regression and SVM models to classify COVID-19 infection.(Binary Classification)
+  * Supervisor: Chengliang Dai
 
 * Spring 2023: Research Assistant
   * University of Oxford
@@ -33,13 +37,19 @@ Campus/Research experience
   
 Skills
 ======
-* Skill 1: Data Cleaning and Preprocessing: Possess skills in cleaning and preprocessing data, including handling missing values, outliers, duplicates, normalization etc. (Proficient at Python and R programming)
+* Skill 1: Data Cleaning and Statistical Description: Possess skills in cleaning and preprocessing data, including handling missing values, outliers, duplicates, normalization, data visualization etc. (Proficient at Python and R programming)
 * Skill 2: Statistical Modeling and Machine Learning: Capable of constructing and evaluating statistical & ML models, such as linear regression, logistic regression, decision trees, CNN, EM algorithm, kernel k-means etc., to address real-world problems.
-* Skill 3
+* Skill 3: 
 
   
-Service and leadership
+Domain of Interest:
 ======
-* Currently signed in to 43 different slack teams
+* Machine Learning and Deep Learning Applications:
+  * Convolutional Neural Networks (CNN) for multi-class classification tasks.
+  * Deep learning models for facial recognition technology.
+  * Exploration of deep learning's wide-ranging applications across industries.
+* Bayesian Statistics and Sequential Learning:
+  * Applications of Bayesian methods in sequential data analysis.
+  * Interest in probabilistic modeling and Bayesian inference techniques.
 
-Domain of Interest
+
