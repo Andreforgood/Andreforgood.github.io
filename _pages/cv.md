@@ -38,9 +38,8 @@ Intern/Campus/Research experience
 Skills
 ======
 * Skill 1: Data Cleaning and Statistical Description: Possess skills in cleaning and preprocessing data, including handling missing values, outliers, duplicates, normalization, data visualization etc. (Proficient at Python and R programming)
-* Skill 2: Statistical Modeling and Machine Learning: Capable of constructing and evaluating statistical & ML models, such as linear regression, logistic regression, decision trees, CNN, EM algorithm, kernel k-means etc., to address real-world problems.
-* Skill 3: 
-
+* Skill 2: Machine Learning & Deep Learning: Capable of constructing and evaluating statistical & ML models, such as linear regression, logistic regression, decision trees, CNN, EM algorithm, kernel k-means etc., to address real-world problems.
+* Skill 3: Statistical Modeling: including time series analysis (e.g., ARIMA, GARCH), and Multivariate Analysis(e.g., MANOVA table, Normality Evaluation/Transformation, PCA, Hidden Markov Model) 
   
 Domain of Interest:
 ======
