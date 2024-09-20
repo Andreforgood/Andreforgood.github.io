@@ -34,7 +34,11 @@ Intern/Campus/Research experience
   * North Carolina State University.
   * Duties included: At NC State, I focused on text processing for the topic AI and Crisis Communication. I extracted key information from research papers, using NLP techniques (LLM) to vectorize text, followed by clustering analysis (e.g., K-Means, DBSCAN) to identify contents like the most common theoretical frameworks and AI models used in the mentioned articles. Additionally, I conducted time series analysis to predict corporate responses (positive, negative or neutral) to public sentiment during crises, utilizing ARIMA, GARCH, and seasonal ARIMA models.
   * Supervisor: Alice Cheng
-  
+
+My Academic Transcript
+======
+[see it here](https://github.com/Andreforgood/Andreforgood.github.io/blob/master/files/view-report.pdf)
+
 Skills
 ======
 * Skill 1: Data Cleaning and Statistical Description: Possess skills in cleaning and preprocessing data, including handling missing values, outliers, duplicates, normalization, data visualization etc. (Proficient at Python and R programming)
