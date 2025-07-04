@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: https://github.com/Andreforgood/Andreforgood.github.io/blob/master/CV%202025.07.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -9,7 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
-
+Hi
 
 
 
