@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "Mainland China"
+locale                   : "United States of America"
 title                    : "Dongwen Ou"
 title_separator          : "-"
 name                     : &name "Your Name"
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Dongwen Ou"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him/His"  
   bio              : "Here's hoping the random universe works out for you!"
-  location         : "Mainland China"
-  employer         : "Xiamen University"
+  location         : "United States of America"
+  employer         : "Duke University"
   uri              : # URL
-  email            : "dongwenou79[at]gmail[dot]com" 
+  email            : "andre[dot]ou[at]duke[dot]edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
