@@ -11,7 +11,7 @@ redirect_from:
 About me!
 ======
 * Hi, I am Dongwen(Andre) Ou, I got my B.S. degree in Mathematical Statistics at [Xiamen University](https://en.xmu.edu.cn/main.htm) in summer 2025. In Spring 2024, I was an exchange student in the Department of Applied Mathematics at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw/nycu/en/index).
-* I am now in the M.S. program (class of 2027) in Statistical Science at [Duke University](https://stat.duke.edu/ms), and I'm actively seeking research opportunities and plan to apply for CS PhD programs for Fall 2027. My research interests lie in the intersection of statistical machine learning and NLP&LLMs, including topics such as LLM effective reasoning (including speed up), representation learning, and algorithmic foundations of learning theory. I am particularly interested in developing theoretically grounded and practically effective methods for modern data-driven problems and the development of LLMs.
+* I am now in the M.S. program (class of 2027) in Statistical Science at [Duke University](https://stat.duke.edu/ms), and I'm actively seeking research opportunities and plan to apply for STAT/CS PhD programs for Fall 2027. My research interests lie in the intersection of statistical machine learning, reinforcement learning and NLP&LLMs, including topics such as LLM effective reasoning & acceleration, Markov Decision Process, Contextual Bandits and MARL. I am particularly interested in developing theoretically grounded and practically effective methods for modern data-driven problems and the development of AI.
 
 For more info
 ------
